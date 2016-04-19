@@ -11,8 +11,6 @@
     "url": "git://github.com/Dogfalo/materialize.git"
   },
   "dependencies": {
-    "hammerjs": "^2.0.4",
-    "jquery": "^2.1.4",
     "node-archiver": "^0.2.0"
   },
   "engine": "node >= 0.10",
